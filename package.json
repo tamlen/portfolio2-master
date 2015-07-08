@@ -1,0 +1,14 @@
+{
+  "name": "portfolio2-master",
+  "version": "1.0.0",
+  "description": "portfolio2 ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.2"
+  }
+}
